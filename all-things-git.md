@@ -21,6 +21,9 @@ git remote add origin <SSH path>
 ### verify remote connectivity
 git remote -v
 
+## Other commands
 git diff --staged
 
 git diff
+
+git add -A
